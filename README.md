@@ -16,6 +16,12 @@ A mobile application built with React, Material UI, and TypeScript. This app ser
 - ![Material UI](https://img.shields.io/badge/Material-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 - ![React Router](https://img.shields.io/badge/React-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
 
+## Screenshot
+
+Here’s a screenshot of the app:
+
+![Breed Screenshot](public/screenshot.png)
+
 ## Getting Started
 
 Clone the repository:

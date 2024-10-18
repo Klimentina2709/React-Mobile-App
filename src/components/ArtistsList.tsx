@@ -1,4 +1,3 @@
-// ArtistsList.tsx
 import React from "react";
 import ArtistItem, { ArtistType } from "./ArtistItem";
 import { Typography } from "@mui/material";
